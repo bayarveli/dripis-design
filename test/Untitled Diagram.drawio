@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T19:25:20.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qCChbA9ePNP-30EdnLoa" version="24.5.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-15T21:33:38.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ElSU8tbgS95pPPtNx7gA" version="24.5.4" type="github" pages="7">
   <diagram id="Wiphb6utHF8T0v7Ejr8G" name="C4-Dripis-Context">
     <mxGraphModel dx="1647" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1023,7 +1023,7 @@
         <mxCell id="pnRGXukNRitWg8PdJnp1-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ScheduleSettings&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="400" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pnRGXukNRitWg8PdJnp1-12" value="«interface»&lt;br&gt;&lt;b&gt;iNetworkSettings&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pnRGXukNRitWg8PdJnp1-12" value="«interface»&lt;br&gt;&lt;b&gt;INetworkSettings&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnRGXukNRitWg8PdJnp1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pnRGXukNRitWg8PdJnp1-20">
@@ -1152,10 +1152,10 @@
         <mxCell id="pnRGXukNRitWg8PdJnp1-50" value="Embedded Proto" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="165" y="1030" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pnRGXukNRitWg8PdJnp1-52" value="«interface»&lt;br&gt;&lt;b&gt;iScheduleSettings&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pnRGXukNRitWg8PdJnp1-52" value="«interface»&lt;br&gt;&lt;b&gt;IScheduleSettings&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pnRGXukNRitWg8PdJnp1-53" value="«interface»&lt;br&gt;&lt;b&gt;iVersion&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pnRGXukNRitWg8PdJnp1-53" value="«interface»&lt;br&gt;&lt;b&gt;IVersion&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
