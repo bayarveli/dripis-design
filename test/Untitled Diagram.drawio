@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T22:27:09.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OO1QIv6xQURpNY_xXICq" version="24.5.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-22T22:27:31.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IpYcW591c5JMun7Jc85a" version="24.5.4" type="github" pages="7">
   <diagram id="Wiphb6utHF8T0v7Ejr8G" name="C4-Dripis-Context">
     <mxGraphModel dx="1647" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -615,7 +615,7 @@
         </mxCell>
         <mxCell id="9Q2nP6hiSz_OiKkYEKB8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.148;exitY=-0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WZLhbFQPuZW-3glD0RmA-62" target="9Q2nP6hiSz_OiKkYEKB8-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="590" as="sourcePoint" />
+            <mxPoint x="700" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WZLhbFQPuZW-3glD0RmA-62" value="Configuration Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;fontColor=#ffffff;" parent="1" vertex="1">
@@ -701,13 +701,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9Q2nP6hiSz_OiKkYEKB8-2" value="«interface»&lt;br&gt;&lt;b&gt;INetworkSettings&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="780" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="780" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Q2nP6hiSz_OiKkYEKB8-3" value="«interface»&lt;br&gt;&lt;b&gt;IScheduleSettings&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="920" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="920" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Q2nP6hiSz_OiKkYEKB8-4" value="«interface»&lt;br&gt;&lt;b&gt;IVersion&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
